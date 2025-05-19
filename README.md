@@ -6,7 +6,7 @@ Este projeto simula um sistema embarcado para monitoramento de cheias e chuvas u
 
 ## 📷 Demonstração
 
-[🔗 Link para o vídeo]()
+[🔗 Link para o vídeo](https://www.youtube.com/watch?v=yxLL56xPt_c&ab_channel=LorenzoBaroni)
 
 ---
 
